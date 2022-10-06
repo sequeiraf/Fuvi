@@ -16,7 +16,7 @@ int main(){
 	cout <<"Ingrese el cateto 2: ";
 	cin >> Cateto2;
 	
-	hipotenusa = sqrt( (pow)cateto1,2) + pow(cateto2,2));
+	Hipotenusa = sqrt( (pow)Cateto1,2) + pow(Cateto2,2));
 	
 	cout << "Cateto 1 = " <<Cateto1 << endl;
 	cout << "Cateto 2 = " <<Cateto2 <<endl;
